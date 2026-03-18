@@ -18,3 +18,4 @@ Proyecto base para construir un curriculum vitae interactivo y un portafolio pro
 ## Nota
 
 GitHub Pages solo sirve contenido estatico. El backend Node.js queda preparado para desarrollo local o para moverlo despues a otro hosting.
+# Portafolio-CV
